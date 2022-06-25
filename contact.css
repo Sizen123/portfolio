@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.contactForm {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-top: 122px;
+    padding: 0 30px;
+}
+
+.contactForm h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+.contactForm form div {
+    padding: 10px 0;
+    display: flex;
+    flex-direction: column;
+}
+
+.contactForm form div input {
+    width: 15vw;
+    border-radius: 2px;
+    margin: 6px 0 0 0;
+    padding: 3px;
+}
+
+#emailHelp {
+    font-size: 16px;
+    color: rgb(255, 0, 119);
+    margin: 0 1px;
+}
+
+#form-check {
+    flex-direction: row;
+}
+
+#form-check input {
+    width: 12px;
+    margin: 4px 1px;
+}
+
+#form-check label {
+    margin: 0 10px;
+}
+
+.btn-sm {
+    font-size: 16px;
+    padding: 7px 20px;
+    margin: 9px 0px;
+}

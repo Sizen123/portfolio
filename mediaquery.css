@@ -1,0 +1,9 @@
+    @media only screen and (max-width: 1421px) {
+        * {
+            background-color: lightblue;
+        }
+        /* .sidebar {
+            transform: translate(-230px, 0px);
+            position: absolute;
+        } */
+    }

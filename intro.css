@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.intro h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 13px;
+}
+
+.intro p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 13px;
+}
+
+.skillContainer {
+    padding: 15px;
+}
+
+.skillItem {
+    display: flex;
+    align-items: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+
+.skill {
+    width: 273px;
+    background-color: red;
+    height: 10px;
+    border: 2px solid black;
+}
+
+.hundered {
+    width: 265px;
+    background-color: blueviolet;
+}
+
+.fifty {
+    width: 230px;
+    background-color: aqua;
+}
+
+.t1 {
+    width: 50px;
+    background-color: yellow;
+}
+
+.Pjt h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 13px;
+    padding: 3px;
+}
+
+.Pjt li {
+    list-style: none;
+    padding: 0 16px;
+}
